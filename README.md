@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Forhadul Masum</h1>
+<img src="https://i.ibb.co.com/rG4qWZyw/Untitled-600-x-200-px-800-x-200-px.jpg">
+<h1 align="center">Hi 👋, I'm Forhadul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-forhadul&label=Profile%20views&color=0e75b6&style=flat" alt="dev-forhadul" /> </p>
